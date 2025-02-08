@@ -5,7 +5,6 @@ headless: true
 
 - [Blog](https://dbwu.tech/)
 - [Github](https://github.com/duanbiaowu/go-examples-for-beginners)
-- [微信公众号](https://dbwu.tech/images/wechat.png)
 
 ---
 

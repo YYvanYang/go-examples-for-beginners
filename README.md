@@ -124,10 +124,6 @@
 - [K8S](patterns/k8s/visitor.go)
 - [MapReduce](patterns/mapreduce/real_world.go)
 
-## 微信
-
-![微信公众号](content/images/wechat_accounts.png)
-
 ## JetBrains open source certificate support
 
 This project has always been developed in the GoLand integrated development environment under JetBrains, based on the **free JetBrains Open Source license(s)** genuine free license. I would like to express my gratitude.
